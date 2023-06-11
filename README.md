@@ -19,12 +19,10 @@ Start the programme: <br/>
 Enter the text you wish to grade. The programme will return the grade of the text. Below is a few different tests to show examples of how it works for different grades. <br/>
 <img src="https://i.imgur.com/fmRZqUH.png"/>
 <br />
-<br />
-Enter the number of passes: <br/>
 <img src="https://i.imgur.com/r5C1Ydq.png"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+<br/>
 <img src="https://i.imgur.com/eLyTPal.png"/>
 <br />
 <br />
